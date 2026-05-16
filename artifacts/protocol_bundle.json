@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-05-15T20:52:07.042858+00:00",
+  "commit": "7949c1b",
+  "seed": 42,
+  "config": {
+    "max_retries": 1
+  },
+  "aggregate_rate": 0.8889,
+  "results": [
+    {
+      "suite": "SWE-bench",
+      "path": "external/swe_bench.jsonl",
+      "total": 30,
+      "passed": 24,
+      "rate": 0.8,
+      "available": true
+    },
+    {
+      "suite": "MMLU",
+      "path": "external/mmlu.jsonl",
+      "total": 30,
+      "passed": 26,
+      "rate": 0.8667,
+      "available": true
+    },
+    {
+      "suite": "AgentSafety",
+      "path": "external/agent_safety.jsonl",
+      "total": 30,
+      "passed": 30,
+      "rate": 1.0,
+      "available": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-15T20:59:00.909682+00:00",
+  "commit": "f6a8bd0",
+  "status": {
+    "raw_accuracy_hard": 0.6667,
+    "task_success_rate_hard": 1.0,
+    "long_horizon_completion": 1.0,
+    "safety_coverage": 1.0,
+    "forgetting_degradation": 0.0,
+    "reproducibility_20x": true,
+    "public_sota_aggregate": 0.8889,
+    "l5_candidate": false
+  }
+}

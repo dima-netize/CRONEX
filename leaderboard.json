@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2026-05-15T20:41:47.883946+00:00",
+    "commit": "d67972a",
+    "aggregate_rate": 0.8889,
+    "suites": [
+      {
+        "name": "SWE-bench",
+        "passed": 24,
+        "total": 30
+      },
+      {
+        "name": "MMLU",
+        "passed": 26,
+        "total": 30
+      },
+      {
+        "name": "AgentSafety",
+        "passed": 30,
+        "total": 30
+      }
+    ]
+  }
+]
